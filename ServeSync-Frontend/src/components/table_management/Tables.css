@@ -1,0 +1,53 @@
+.tables-container {
+  margin: 20px;
+  color: white;
+}
+
+.tables-container h1 {
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.add-table-button {
+  margin-bottom: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 1046px
+}
+
+
+.action-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 100px;
+  cursor: pointer;
+}
+
+.action-button:hover {
+  background-color: #0056b3;
+}
+
+.search-bar {
+  margin-left: 300px;
+  width: 500px;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.search-bar input {
+  height: 40px;
+  flex-grow: 1;
+  margin-right: 10px;
+}

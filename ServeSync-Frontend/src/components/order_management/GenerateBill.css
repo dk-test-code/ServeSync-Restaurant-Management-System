@@ -1,0 +1,7 @@
+h1{
+  color: white;
+}
+.selected {
+  background-color: green !important;
+  color: white !important;
+}

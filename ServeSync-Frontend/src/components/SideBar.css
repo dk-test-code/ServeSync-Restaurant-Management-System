@@ -1,0 +1,39 @@
+
+.col-md-2 .nav-link.active {
+  background-color: #ff0011;
+  /* Active background color */
+  color: #fff;
+  /* Active text color */
+}
+/* Sidebar container */
+.sidebar {
+  padding-top: 20px;
+}
+
+/* Sidebar sticky */
+.sidebar-fixed {
+  background-color: #fff3cd;
+  position: fixed;
+  top: 0;
+  height: 100vh;
+  /* Adjust based on your header height */
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.sidebar-custom-bg{
+  background-color: #fff3cd;
+}
+.col-md-2 .nav-link:hover {
+  color: black;
+  /* or whatever color you want to keep */
+}
+
+.col-md-2 .nav-link.active:hover {
+  color: white;
+  /* or whatever color you want to keep */
+}
+.col-md-2 .nav-link {
+  color: black;
+  /* Change link color to black */
+}
